@@ -1,6 +1,7 @@
 # VirusTotalInfo
 
 **This script is based on the request :**
+
 https://www.virustotal.com/vtapi/v2/domain/report?apikey=XXXX&domain=DOMAIN_YOU_WANT_TO_CHECK
 
 # Domain URL Checker Script
