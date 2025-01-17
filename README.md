@@ -1,5 +1,8 @@
 # VirusTotalInfo
 
+**This script is based on the request :**
+https://www.virustotal.com/vtapi/v2/domain/report?apikey=XXXX&domain=DOMAIN_YOU_WANT_TO_CHECK
+
 # Domain URL Checker Script
 
 This script allows you to fetch and display undetected URLs for one or more domains using the VirusTotal API. It includes features such as API key rotation, error handling, and a countdown to comply with API rate limits.
