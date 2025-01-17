@@ -43,6 +43,14 @@ sudo yum install jq        # CentOS/Red Hat
 brew install jq            # macOS
 ```
 # Usage
+**Download the script**
+```bash
+git clone https://github.com/Takaao1/VirusTotalInfo.git
+```
+```bash
+cd VirusTotalInfo
+chmod +x domain_checker.sh
+```
 **Single Domain**
 Fetch undetected URLs for a single domain:
 ```bash
